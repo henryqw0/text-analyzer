@@ -93,4 +93,4 @@ Most common: hello
 
 ## License
 
-This project is open for personal and educational use. You can add a license file if you plan to share or publish it publicly.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
